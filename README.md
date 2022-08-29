@@ -5,6 +5,7 @@ Running a thriving local restaurant isn't always as charming as first impression
 The data is available at Kaggle.com and was retrieved from two separate sites:
 
 ->Hot Pepper Gourmet (hpg): similar to Yelp, here users can search restaurants and also make a reservation online
+
 ->AirREGI / Restaurant Board (air): similar to Square, a reservation control and cash register system The data consists of reservations, visits, stores information, location, weather and holidays for over 150 restaurants in Japan. The training data covers the dates from 2016 until April 2017. The test dataset covers the last week of April and May of 2017.
 
 ## Project Scope
